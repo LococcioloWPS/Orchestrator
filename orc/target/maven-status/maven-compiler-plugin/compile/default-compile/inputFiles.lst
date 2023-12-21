@@ -1,0 +1,14 @@
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/controller/MissionController.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/dao/StepRepository.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/model/Protocol.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/dao/ParameterRepository.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/service/MissionService.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/dao/MissionRepository.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/controller/ParameterController.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/service/ParameterService.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/controller/StepController.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/service/StepService.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/OrcApplication.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/model/Step.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/model/Parameter.java
+/home/gabriele/Documenti/orchestrator/orc/src/main/java/com/orchestrator/orc/model/Mission.java
